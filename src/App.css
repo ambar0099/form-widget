@@ -32,7 +32,23 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.form-spacing {
+  margin-top: 0.5em;
+}
+
+.form-image {
+  height: 30%;
+  width: 30%;
+}
+
+
+.widget-form {
+  text-align: center;
+  vertical-align: middle;
 }
